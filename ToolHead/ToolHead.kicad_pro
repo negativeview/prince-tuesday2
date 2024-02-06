@@ -462,6 +462,10 @@
     [
       "cfd46c7a-4b49-4e2c-b9e7-1a7a49731e6b",
       "Voltage Regulation"
+    ],
+    [
+      "1491eec4-e6b9-44d9-ad74-a54972d4ead3",
+      "CanBus Handling"
     ]
   ],
   "text_variables": {}
